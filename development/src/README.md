@@ -12,6 +12,7 @@ npm install --save-dev  grunt
 npm install --save request
 
 
+<<<<<<< HEAD
 Grunt Scripts :</br>
 Grunt Scripts support the continuous integration, multiple tasks were designed and made available to Jenkins.
 The implementation of tasks relies on a number of dependencies that can be loaded and installed using the following commands </br>
@@ -35,6 +36,9 @@ the task will run the unit test , please note that  the unit test is implemented
 3-	intergationTest : <code> grunt intergationTest </code> </br>
 the task will run the integration test which is implemented by using Protractor Framework ,  a Framework that internally uses Selenium Server</br>
  
+=======
+Grunt Tasks
+>>>>>>> _repo_2
 
 For API documentation generation we us http://apidocjs.com/.
 
